@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Project exclude paths
+/springboot-aop-unifiedlog/target/
+/springboot-delayqueue/target/
+/springboot-erupt/target/
+/springboot-seata-transaction/account-server/target/
+/springboot-seata-transaction/eureka-server/target/
+/springboot-seata-transaction/order-server/target/
+/springboot-seata-transaction/storage-server/target/
